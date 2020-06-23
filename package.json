@@ -1,6 +1,6 @@
 {
   "name": "supportpal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Supportpal Nodejs Module",
   "main": "./lib/supportpal",
   "directories": {

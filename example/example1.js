@@ -2,13 +2,14 @@ var Supportpal = require('../lib/supportpal');
 
 var support = new Supportpal({ 'hostname': process.env.HOST, 'port': 443, 'hash': process.env.HASH });
 
-/*
+
 support.settings.get(function (err, data) {
   console.log(err)
   console.log(data)
 });
-*/
 
+
+/*
 var opts = {
   'subject': 'subject testtttt',
   'text': 'text testtttttt',
@@ -23,3 +24,4 @@ support.ticket.create(opts, function(err, data) {
   console.log(err)
   console.log(data)
 });
+*/
