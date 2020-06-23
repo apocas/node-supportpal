@@ -1,6 +1,6 @@
 # node-supportpal
 
-Node.js client for [SupportPal](https://www.supportpal.com/) MicroVM platform.
+Node.js client for [SupportPal](https://www.supportpal.com/) help desk.
 
 ## Installation
 
