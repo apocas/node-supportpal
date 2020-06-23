@@ -1,0 +1,23 @@
+{
+  "name": "supportpal",
+  "version": "1.0.0",
+  "description": "Supportpal Nodejs Module",
+  "main": "./lib/supportpal",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apocas/node-supportpal.git"
+  },
+  "author": "Pedro Dias <petermdias@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/apocas/node-supportpal/issues"
+  },
+  "homepage": "https://github.com/apocas/node-supportpal#readme"
+}
